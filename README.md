@@ -1,0 +1,2 @@
+# a_complete_hospital_system_without_saving_information_in_python_tkinter
+a_complete_hospital_management_system_without_saving_information_in_python_tkinter...یک سیستم کامل مدیریتی بیمارستان در پایتون تیکنتر
